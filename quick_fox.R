@@ -1,1 +1,1 @@
-print("The quick brown fox jumped over the lazy dog.")
+print("the quick brown fox jumped over the lazy dog")
